@@ -1,0 +1,3 @@
+[submodule "FirebaseChat/Frameworks/MessageKit"]
+	path = FirebaseChat/Frameworks/MessageKit
+	url = https://github.com/MessageKit/MessageKit.git
